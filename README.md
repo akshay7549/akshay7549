@@ -8,7 +8,7 @@
 
 Building a strong infrastructure foundation while learning how to investigate, test and protect systems.
 
-[Portfolio](https://splendorous-cactus-88b8bd.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/akshay-kumar-090990249) · [GitHub Projects](https://github.com/akshay7549?tab=repositories)
+[Portfolio](https://splendorous-cactus-88b8bd.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/akshay-kumar-090990249) · [GitHub Projects](https://github.com/akshay7549?tab=repositories) · [Google Scholar](https://scholar.google.com/citations?user=n_KkLYUAAAAJ&hl=en)
 
 **Open to network, IT support and cybersecurity opportunities.**
 
@@ -66,6 +66,19 @@ My direction is toward network security and penetration testing, supported by ha
 - [Sukoon Wellness & Spa](https://github.com/akshay7549/sukoon-wellness-spa) — Django booking platform and management dashboard.
 - [Kashvi Tech](https://github.com/akshay7549/kashvitech) — Responsive digital agency website built with Django.
 - [Kasvi Place](https://github.com/akshay7549/kasvi-place) — Hospitality website with room booking, a contact form and an admin panel.
+
+## Research & publications
+
+Co-authored research in cybersecurity, network security and communications.
+
+[View my Google Scholar publication profile](https://scholar.google.com/citations?user=n_KkLYUAAAAJ&hl=en)
+
+Selected publications:
+
+- [Fortifying the Future: Cybersecurity Strategies for Critical Energy Infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n_KkLYUAAAAJ&citation_for_view=n_KkLYUAAAAJ:d1gkVwhDpl0C) — 2025
+- [Intrusion Detection Systems: Advanced Techniques for Network Security](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n_KkLYUAAAAJ&citation_for_view=n_KkLYUAAAAJ:qjMakFHDy7sC) — 2025
+- [The Evolution of Network Architecture: From Traditional Models to 5G, IoT, and Quantum Networking](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n_KkLYUAAAAJ&citation_for_view=n_KkLYUAAAAJ:Tyk-4Ss8FVUC) — 2025
+- [Cloud Communications and Networks: Technologies, Applications, and Emerging Trends](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=n_KkLYUAAAAJ&citation_for_view=n_KkLYUAAAAJ:LkGwnXOMwfcC) — 2026
 
 ## Training & education
 
