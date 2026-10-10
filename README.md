@@ -2,7 +2,7 @@
 
 # Hi, I'm Akshay Kumar 👋
 
-### L1 Network Engineer · Cybersecurity Trainee · Aspiring Penetration Tester
+### Network& System Engineer · Cybersecurity Trainee · Aspiring Penetration Tester
 
 **Networking · Linux · IT Support · Security Labs**
 
