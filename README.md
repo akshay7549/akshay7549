@@ -18,7 +18,7 @@ Building a strong infrastructure foundation while learning how to investigate, t
 
 ## About me
 
-I'm an L1 Network Engineer at **TechGuru IT Solutions** and a cybersecurity trainee at **CRAW Security**. My foundation is practical: diagnose the problem, understand the system, fix it and document it — then ask how it could be attacked.
+I'm a System & Network Engineer at **TechGuru IT Solutions** and a cybersecurity trainee at **CRAW Security**. My foundation is practical: diagnose the problem, understand the system, fix it and document it — then ask how it could be attacked.
 
 I work with hardware, software, IP configuration, VPN access, LAN/WAN connectivity and end-user support. Alongside this work, I practice networking, Linux administration, vulnerability scanning and penetration-testing fundamentals in controlled labs.
 
@@ -37,7 +37,7 @@ My direction is toward network security and penetration testing, supported by ha
 
 ## Experience
 
-**L1 Network Engineer — TechGuru IT Solutions, New Delhi**  
+**System & Network Engineer — TechGuru IT Solutions, New Delhi**  
 *April 2026 – Present*
 
 - Diagnose hardware, software and network issues across desktops, laptops and printers.
@@ -47,7 +47,7 @@ My direction is toward network security and penetration testing, supported by ha
 **Cybersecurity Trainee — CRAW Security, Delhi**  
 *August 2025 – Present*
 
-- Study networking, Linux essentials and offensive-security foundations.
+- Study networking, Linux essentials and offensive security foundations.
 - Apply learning in a personal lab using Kali Linux, Ubuntu and VMware.
 - Practice vulnerability scanning and controlled penetration-testing exercises.
 
